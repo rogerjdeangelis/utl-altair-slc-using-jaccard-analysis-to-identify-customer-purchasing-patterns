@@ -19,6 +19,13 @@ Create a campaign for this tye of custome
 Altair Community
 https://community.altair.com/discussion/47640/jaccard-distance-with-rapid-miner?tab=all
 
+Related Repus
+-------------------------------------------------------------------------------------------------
+https://github.com/rogerjdeangelis/utl-altair-slc-simple-market-basket-passthru-sqlite-libname-sqlite-and-proc-sql
+https://github.com/rogerjdeangelis/utl-example-of-sequence-analysis-and-market-basket-analysis
+https://github.com/rogerjdeangelis/utl_association_analysis_and_market_basket_analysis
+https://github.com/rogerjdeangelis/utl_market_basket
+
 please provide a simple self-contained example using jaccard distance with input and output r dataframes using r
 
 /*
